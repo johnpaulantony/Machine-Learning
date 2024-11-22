@@ -1,0 +1,11 @@
+Age,Sex,Chest Pain Type,Target (Heart Disease)
+45,Male,Typical Angina,Yes
+54,Female,Atypical Angina,No
+60,Male,Non-Anginal Pain,Yes
+50,Male,Atypical Angina,No
+65,Female,Non-Anginal Pain,Yes
+55,Male,Typical Angina,Yes
+52,Female,Atypical Angina,No
+48,Male,Non-Anginal Pain,No
+70,Male,Typical Angina,Yes
+62,Female,Non-Anginal Pain,Yes
