@@ -1,4 +1,4 @@
-**Use Case : Diabetes Prediction (Classification)**
+**Use Case : Diabetes Prediction**
 
 **Problem Statement:**
 A healthcare provider wants to predict whether a patient is diabetic based on a dataset containing health indicators such as glucose level, BMI, age, and blood pressure.
