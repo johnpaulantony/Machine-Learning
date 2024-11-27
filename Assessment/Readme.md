@@ -49,7 +49,7 @@ Deploy Flask Web app in local server.
 
 test the model 
 
-**Dataset Overview: PIMA Indians Diabetes Database**
+**Dataset Overview: Diabetes Database**
 Source: National Institute of Diabetes and Digestive and Kidney Diseases  - 
 
 Link: **Refer CSV file. attached this repo**
