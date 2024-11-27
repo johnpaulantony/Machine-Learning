@@ -42,20 +42,30 @@ test the model
 
 **Dataset Overview: PIMA Indians Diabetes Database**
 Source: National Institute of Diabetes and Digestive and Kidney Diseases  - 
-Link: Refer CSV file. attached this repo
+Link: **Refer CSV file. attached this repo**
 
 **Description:**
 The dataset includes diagnostic data to predict whether a patient has diabetes based on certain diagnostic measurements.
 Binary classification problem: Outcome (1 = Diabetic, 0 = Non-Diabetic).
+
 **Features:**
+
 **Pregnancies**: Number of times pregnant
+
 **Glucose**: Plasma glucose concentration
+
 **BloodPressure**: Diastolic blood pressure (mm Hg)
+
 **SkinThickness**: Triceps skinfold thickness (mm)
+
 **Insulin**: 2-Hour serum insulin (mu U/ml)
+
 **BMI**: Body mass index (weight in kg/(height in m)^2)
+
 **DiabetesPedigreeFunction**: Function to estimate genetic influence
+
 **Age**: Age in years
+
 **Outcome**: Target variable (1 = Diabetes, 0 = No Diabetes)
 
 
